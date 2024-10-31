@@ -1,0 +1,33 @@
+.progressive-slots-tracker {
+	width: 100%;
+	text-align: center;
+	margin: auto;
+}
+
+.progressive-slots-tracker-jackpot {
+	float: left;
+	border: none;
+	text-align: right;
+	background-color: transparent;
+	color: red;
+}
+
+.progressive-slots-tracker-product {
+	text-align:left;
+	float: left;
+	clear: left;
+	width: 80px;
+}
+
+.progressive-slots-tracker-jackpot-graphic {
+	border: none;
+	text-align: center;
+	background-color: transparent;
+	color: red;
+	font-weight: bold;
+	font-size: 1.8em;
+}
+
+.progressive-slots-tracker-product-graphic {
+	border: none;
+}
